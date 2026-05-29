@@ -22,3 +22,5 @@ This project is a landing page designed to highlight a product, service, or pers
 - This is a static page with no JavaScript dependencies.
 - Ideal for a quick homepage or promotional landing page.
 
+## Live Demo
+https://vineet721.github.io/Codsoft/LandingPage/
