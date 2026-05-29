@@ -24,3 +24,5 @@ This calculator supports basic arithmetic operations such as addition, subtracti
 - No additional setup is required.
 - The app works entirely in the browser.
 
+## Live Demo
+https://vineet721.github.io/Codsoft/Calculator/
